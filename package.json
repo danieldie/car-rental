@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.26.2",
+    "@heroicons/react": "^2.0.18",
     "@types/node": "20.8.10",
     "@types/react": "18.2.36",
     "@types/react-dom": "18.2.14",
@@ -18,7 +19,11 @@
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "scss": "^0.2.4",
     "tailwindcss": "3.3.5",
     "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "daisyui": "^3.9.4"
   }
 }
